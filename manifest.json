@@ -1,0 +1,21 @@
+{
+  "short_name": "Recipe Revolution",
+  "name": "Recipe Revolution - Smart Recipe Clipper",
+  "description": "Paste any recipe text and our AI will instantly organize it for you.",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f97316",
+  "background_color": "#fff7ed"
+}
